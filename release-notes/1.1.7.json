@@ -9,60 +9,60 @@
       "title": "New wallet type: Spend, Save, and Loans",
       "description": "Want to keep track of your savings, wish list, or even your bank and personal loans? You can do it all in Spenzy now.",
       "images": [
-        "images/1.1.7/rn-wallet-type-01.png",
-        "images/1.1.7/rn-wallet-type-02.png",
-        "images/1.1.7/rn-wallet-type-03.png",
-        "images/1.1.7/rn-wallet-type-04.png"
+        "images/1.1.7/rn-wallet-type-01.webp",
+        "images/1.1.7/rn-wallet-type-02.webp",
+        "images/1.1.7/rn-wallet-type-03.webp",
+        "images/1.1.7/rn-wallet-type-04.webp"
       ]
     },
     {
       "title": "Revamped Wallet Screen & New Net Worth Chart",
       "description": "With more wallet types, your wallets are now grouped by type - easier to scan, more to see at a glance.\n\nPlus, a brand-new Net Worth chart sits right on your Wallet screen, showing your total worth across all wallets over time. Got wallets in different currencies? It handles that too.",
       "images": [
-        "images/1.1.7/rn-wallet-01.png",
-        "images/1.1.7/rn-wallet-02.png"
+        "images/1.1.7/rn-wallet-01.webp",
+        "images/1.1.7/rn-wallet-02.webp"
       ]
     },
     {
       "title": "New Recurring Type: Subscriptions!",
       "description": "Track your subscriptions in style - pick the brand you're paying for like Spotify, Netflix, Figma, and more.\n\nThe upcoming transactions page also got a full makeover with a cleaner layout, better overview, and a calendar view so you can see what's coming up at a glance. No surprises at the end of the month.",
       "images": [
-        "images/1.1.7/rn-subscription-01.png",
-        "images/1.1.7/rn-subscription-02.png",
-        "images/1.1.7/rn-subscription-03.png",
-        "images/1.1.7/rn-subscription-04.png"
+        "images/1.1.7/rn-subscription-01.webp",
+        "images/1.1.7/rn-subscription-02.webp",
+        "images/1.1.7/rn-subscription-03.webp",
+        "images/1.1.7/rn-subscription-04.webp"
       ]
     },
     {
       "title": "Lock Screen & Home Screen Widgets",
       "description": "Check your budgets, spending, and wallet balances without even opening the app. Six widget styles to choose from - and one lets you log expenses in one tap right from your Lock Screen.",
       "images": [
-        "images/1.1.7/rn-widget.png"
+        "images/1.1.7/rn-widget.webp"
       ]
     },
     {
       "title": "Siri & Shortcuts",
       "description": "Spenzy now works with Siri! Add expenses by voice, check your remaining budget, or log transactions - all hands-free. You can also set up custom shortcuts in the Shortcuts app.",
       "images": [
-        "images/1.1.7/rn-siri-01.png",
-        "images/1.1.7/rn-siri-02.png"
+        "images/1.1.7/rn-siri-01.webp",
+        "images/1.1.7/rn-siri-02.webp"
       ]
     },
     {
       "title": "Scan Receipts from Anywhere with Live Activity",
       "description": "See a receipt in Photos or any app? Just hit Share and pick Spenzy. It grabs the image and processes it - even multiple receipts at once. No more screenshotting and switching apps.\n\nAnd with Live Activity, you don't need to wait for scanning to finish. Just put Spenzy in the background and go about your day - it'll keep working.",
       "images": [
-        "images/1.1.7/rn-share-extension-01.png",
-        "images/1.1.7/rn-share-extension-02.png",
-        "images/1.1.7/rn-share-extension-03.png"
+        "images/1.1.7/rn-share-extension-01.webp",
+        "images/1.1.7/rn-share-extension-02.webp",
+        "images/1.1.7/rn-share-extension-03.webp"
       ]
     },
     {
       "title": "Mini scan receipt from Dynamic Island",
       "description": "A small, always-ready scan button that floats on Spenzy's home screen. Quick-scan receipts without digging through menus - just drag down or swipe right below the Dynamic Island or notch to start scanning.",
       "images": [
-        "images/1.1.7/rn-scan-island-01.png",
-        "images/1.1.7/rn-scan-island-02.png"
+        "images/1.1.7/rn-scan-island-01.webp",
+        "images/1.1.7/rn-scan-island-02.webp"
       ]
     },
     {

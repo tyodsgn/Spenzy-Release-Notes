@@ -35,7 +35,7 @@ The app currently expects the richer `AppReleaseNote` structure used by the exis
       "title": "Feature title",
       "description": "Feature description",
       "items": ["Optional bullet"],
-      "images": ["images/1.1.7/example.png"]
+      "images": ["images/1.1.7/example.webp"]
     }
   ]
 }
@@ -47,5 +47,5 @@ The app currently expects the richer `AppReleaseNote` structure used by the exis
   - a single remote JSON array
   - a single remote JSON object
   - an index file with `notes` or `versions` pointing to per-version JSON files
-- `1.1.7` images are included in this folder today.
-- `1.1.3` and `1.1.1` are text-only here because those image assets are not present in the repo yet.
+- `1.1.7`, `1.1.3`, and `1.1.1` image assets are included in this folder today.
+- `1.1.3` and `1.1.1` JSON files are still text-only for now, even though their image assets are present in the repo.
