@@ -1,15 +1,26 @@
 {
   "version": "1.1.1",
+  "date": "2025-10-12",
   "color": "sysTeal",
   "headline": "What's new in Spenzy",
   "sections": [
     {
       "title": "Recurring Transaction",
-      "description": "Whether it's an installment you're paying off gradually or a repeat transaction that happens weekly, monthly, or yearly. Spenzy tracks them automatically so you'll never miss a thing."
+      "description": "Whether it's an installment you're paying off gradually or a repeat transaction that happens weekly, monthly, or yearly. Spenzy tracks them automatically so you'll never miss a thing.",
+      "images": [
+        "images/1.1.1/releas-note-recurring-image03.webp",
+        "images/1.1.1/releas-note-recurring-image02.webp",
+        "images/1.1.1/releas-note-recurring-image01.webp"
+      ]
     },
     {
       "title": "Upcoming Widget",
-      "description": "Keep an eye on what's coming! See your upcoming transactions based on your recurring setup right from the homepage."
+      "description": "Keep an eye on what's coming! See your upcoming transactions based on your recurring setup right from the homepage.",
+      "images": [
+        "images/1.1.1/releas-note-upcoming-image03.webp",
+        "images/1.1.1/releas-note-upcoming-image02.webp",
+        "images/1.1.1/releas-note-upcoming-image01.webp"
+      ]
     },
     {
       "title": "New currency support",

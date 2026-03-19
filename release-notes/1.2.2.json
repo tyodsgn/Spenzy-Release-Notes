@@ -1,0 +1,32 @@
+{
+  "version": "1.2.2",
+  "date": "2026-03-19",
+  "color": "sysBlue",
+  "headline": "What's new in Spenzy",
+  "sections": [
+    {
+      "title": "Saved friends for Split Bill",
+      "description": "Save the people you split bills with often, then add them back in one tap the next time you need them."
+    },
+    {
+      "title": "Split items equally or by quantity",
+      "description": "Shared items are more flexible now. You can keep a simple equal split or assign quantities per person when someone ordered more than the others."
+    },
+    {
+      "title": "Compare scanned receipts while editing",
+      "description": "Keep the original receipt visible while you review scanned items, fees, and totals, so it is easier to double-check the details."
+    },
+    {
+      "title": "Smarter receipt scanning",
+      "description": "Receipt scan accuracy keeps getting better, so both Add Expense via Scan and Split Bill Scan do a better job pulling the right details from your receipt."
+    },
+    {
+      "title": "Start Split Bill without scanning first",
+      "description": "Want to build the receipt manually? You can now jump straight into the editor without taking a photo first."
+    },
+    {
+      "title": "Release Notes in Settings",
+      "description": "Open Release Notes from Settings to revisit the latest update and browse older versions anytime."
+    }
+  ]
+}
