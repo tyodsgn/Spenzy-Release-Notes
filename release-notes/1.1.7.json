@@ -1,0 +1,85 @@
+{
+  "version": "1.1.7",
+  "color": "sysTeal",
+  "headline": "What's new in Spenzy",
+  "footerTitle": "Hey, Tyo again here!",
+  "footerMessage": "Again, sorry for the delayed update - but this one's the biggest yet. It's been a wild ride building all of this.\n\nThanks for using Spenzy and for all the feedback. Got ideas or ran into something weird? Reach out - I read everything.\n\nSee you in the next one! Cheers!",
+  "sections": [
+    {
+      "title": "New wallet type: Spend, Save, and Loans",
+      "description": "Want to keep track of your savings, wish list, or even your bank and personal loans? You can do it all in Spenzy now.",
+      "images": [
+        "images/1.1.7/rn-wallet-type-01.png",
+        "images/1.1.7/rn-wallet-type-02.png",
+        "images/1.1.7/rn-wallet-type-03.png",
+        "images/1.1.7/rn-wallet-type-04.png"
+      ]
+    },
+    {
+      "title": "Revamped Wallet Screen & New Net Worth Chart",
+      "description": "With more wallet types, your wallets are now grouped by type - easier to scan, more to see at a glance.\n\nPlus, a brand-new Net Worth chart sits right on your Wallet screen, showing your total worth across all wallets over time. Got wallets in different currencies? It handles that too.",
+      "images": [
+        "images/1.1.7/rn-wallet-01.png",
+        "images/1.1.7/rn-wallet-02.png"
+      ]
+    },
+    {
+      "title": "New Recurring Type: Subscriptions!",
+      "description": "Track your subscriptions in style - pick the brand you're paying for like Spotify, Netflix, Figma, and more.\n\nThe upcoming transactions page also got a full makeover with a cleaner layout, better overview, and a calendar view so you can see what's coming up at a glance. No surprises at the end of the month.",
+      "images": [
+        "images/1.1.7/rn-subscription-01.png",
+        "images/1.1.7/rn-subscription-02.png",
+        "images/1.1.7/rn-subscription-03.png",
+        "images/1.1.7/rn-subscription-04.png"
+      ]
+    },
+    {
+      "title": "Lock Screen & Home Screen Widgets",
+      "description": "Check your budgets, spending, and wallet balances without even opening the app. Six widget styles to choose from - and one lets you log expenses in one tap right from your Lock Screen.",
+      "images": [
+        "images/1.1.7/rn-widget.png"
+      ]
+    },
+    {
+      "title": "Siri & Shortcuts",
+      "description": "Spenzy now works with Siri! Add expenses by voice, check your remaining budget, or log transactions - all hands-free. You can also set up custom shortcuts in the Shortcuts app.",
+      "images": [
+        "images/1.1.7/rn-siri-01.png",
+        "images/1.1.7/rn-siri-02.png"
+      ]
+    },
+    {
+      "title": "Scan Receipts from Anywhere with Live Activity",
+      "description": "See a receipt in Photos or any app? Just hit Share and pick Spenzy. It grabs the image and processes it - even multiple receipts at once. No more screenshotting and switching apps.\n\nAnd with Live Activity, you don't need to wait for scanning to finish. Just put Spenzy in the background and go about your day - it'll keep working.",
+      "images": [
+        "images/1.1.7/rn-share-extension-01.png",
+        "images/1.1.7/rn-share-extension-02.png",
+        "images/1.1.7/rn-share-extension-03.png"
+      ]
+    },
+    {
+      "title": "Mini scan receipt from Dynamic Island",
+      "description": "A small, always-ready scan button that floats on Spenzy's home screen. Quick-scan receipts without digging through menus - just drag down or swipe right below the Dynamic Island or notch to start scanning.",
+      "images": [
+        "images/1.1.7/rn-scan-island-01.png",
+        "images/1.1.7/rn-scan-island-02.png"
+      ]
+    },
+    {
+      "title": "Mini Calculator",
+      "description": "Need a quick math? There's now a built-in calculator right when you're adding a transaction. No more switching to the Calculator app and back."
+    },
+    {
+      "title": "Changes & improvement",
+      "items": [
+        "Recurring transactions are now labeled as Scheduled transactions in Settings.",
+        "Hold the plus button to quickly add a transaction - no menus, straight to the form",
+        "Wallet selector no longer animates when you have more than 4 wallets - keeps things snappy",
+        "Exclude wallets from balance and net worth calculations - handy for tracking without messing up your totals",
+        "Pick a custom color for each wallet using the new color picker",
+        "Choose a future date for a transaction and it automatically becomes a scheduled transaction",
+        "Lots of behind-the-scenes work for a smoother experience going forward"
+      ]
+    }
+  ]
+}

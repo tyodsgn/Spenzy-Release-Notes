@@ -1,0 +1,31 @@
+{
+  "version": "1.1.1",
+  "color": "sysTeal",
+  "headline": "What's new in Spenzy",
+  "sections": [
+    {
+      "title": "Recurring Transaction",
+      "description": "Whether it's an installment you're paying off gradually or a repeat transaction that happens weekly, monthly, or yearly. Spenzy tracks them automatically so you'll never miss a thing."
+    },
+    {
+      "title": "Upcoming Widget",
+      "description": "Keep an eye on what's coming! See your upcoming transactions based on your recurring setup right from the homepage."
+    },
+    {
+      "title": "New currency support",
+      "description": "Added more currencies including: TWD, VND, LKR, RSD, KWD, SAR, UYU, AED, TND, KES, ARS, UAH, COP, GHS"
+    },
+    {
+      "title": "Export to CSV",
+      "description": "Back up your data or move it anywhere you like - perfect if you want to analyze or use it on another platform."
+    },
+    {
+      "title": "Improvements",
+      "items": [
+        "Managing categories is now easier - expense and income lists are neatly separated.",
+        "Got duplicated categories? No problem. Merge them in one tap to tidy up your list.",
+        "Minor UI fix and enhancements"
+      ]
+    }
+  ]
+}

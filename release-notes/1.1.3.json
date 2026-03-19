@@ -1,0 +1,39 @@
+{
+  "version": "1.1.3",
+  "color": "sysOrange",
+  "headline": "What's new in Spenzy",
+  "sections": [
+    {
+      "title": "Transfer Between Wallets",
+      "description": "The most requested feature is here! Move money from one wallet to another - smooth and easy, just like it should be."
+    },
+    {
+      "title": "Custom Start Dates",
+      "description": "Set your monthly start date or weekly start day - so your budgets finally match your payday cycle."
+    },
+    {
+      "title": "New Wallet Selector",
+      "description": "I heard you - the old wallet picker was painful. Now it's a clean, easy-to-scroll list! No more swipe-swipe chaos."
+    },
+    {
+      "title": "Reorder Wallets & Categories",
+      "description": "Sort them however you like. Make Spenzy truly yours and record expenses the way that feels natural."
+    },
+    {
+      "title": "More AI Usage",
+      "description": "Your AI usage now resets weekly! That means more scans, more smarts, and more splits!"
+    },
+    {
+      "title": "Non Decimals Numpad",
+      "description": "New non-decimal numpad with a \"000\" key for lightning-fast entry. You can grab it on settings!"
+    },
+    {
+      "title": "Improvements",
+      "items": [
+        "Use the same emoji across multiple categories",
+        "Now wallet expense exports show converted vs original amounts when using foreign-currency wallets",
+        "Minor UI fix and enhancements"
+      ]
+    }
+  ]
+}
