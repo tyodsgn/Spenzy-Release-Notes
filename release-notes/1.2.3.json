@@ -1,0 +1,50 @@
+{
+  "version": "1.2.3",
+  "date": "2026-04-06",
+  "color": "sysGreen",
+  "headline": "What's new in Spenzy",
+  "sections": [
+    {
+      "title": "Scheduled reminders are here",
+      "description": "You can now turn on reminders for scheduled and recurring transactions, choose when Spenzy should remind you, and manage everything from the new Notifications settings screen."
+    },
+    {
+      "title": "New Home calendar view",
+      "description": "Home now has a Calendar tab, and both Home and Upcoming share the same monthly calendar experience. Each day can show compact income and expense totals, so it is easier to spot your busy spending days at a glance.",
+      "images": [
+        "images/1.2.3/rn-calendar-view.webp"
+      ]
+    },
+    {
+      "title": "Smarter Add via Text",
+      "description": "Add via Text now does a better job understanding natural wording, shorthand amounts and clearer transaction notes from what you type.",
+      "images": [
+        "images/1.2.3/rn-add-via-text.webp"
+      ]
+    },
+    {
+      "title": "Daily expense logging reminder",
+      "description": "Need a small nudge to stay consistent? Set a daily reminder time to log today's spending before the day slips by.",
+      "images": [
+        "images/1.2.3/rn-pn.webp"
+      ]
+    },
+    {
+      "title": "Annual budgets",
+      "description": "Budgets can now run on a yearly cycle. Pick a start date for each annual budget, and Spenzy will use that schedule across the app, widgets, and shortcuts."
+    },
+    {
+      "title": "Better daily breakdowns",
+      "description": "Calendar days can now show merchant or category indicators, and tapping a day opens a clearer breakdown with totals and transactions for that date."
+    },
+    {
+      "title": "More reliable saving and refreshing",
+      "items": [
+        "CSV imports now stay saved after you close and reopen the app.",
+        "Deleting a wallet now removes it properly instead of coming back later.",
+        "Editing a transaction now refreshes the Home overview totals right away.",
+        "Daily transaction sheets now scroll properly when there is more to review."
+      ]
+    }
+  ]
+}
