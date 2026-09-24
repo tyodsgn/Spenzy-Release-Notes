@@ -1,0 +1,37 @@
+{
+  "announcements": [
+    {
+      "id": "2026-09-scan-fix",
+      "kind": "critical",
+      "badge": "Update",
+      "title": "Update to fix receipt scanning",
+      "body": "Version 1.2.3 can save the wrong amount from scanned receipts. Please update to the latest version.",
+      "minAppVersion": "1.2.0",
+      "maxAppVersion": "1.2.3",
+      "startsAt": "2026-09-24T00:00:00Z",
+      "endsAt": null,
+      "priority": 100,
+      "blocking": false,
+      "action": { "type": "appStore" }
+    },
+    {
+      "id": "2026-10-ai-maintenance",
+      "kind": "warning",
+      "badge": "Heads up",
+      "title": "AI scanning paused tonight",
+      "body": "Receipt scanning will be unavailable 22:00–23:00 WIB for maintenance. Manual entry still works.",
+      "startsAt": "2026-10-01T00:00:00Z",
+      "endsAt": "2026-10-02T00:00:00Z",
+      "priority": 50,
+      "action": { "type": "sheet" }
+    },
+    {
+      "id": "2026-10-survey",
+      "kind": "info",
+      "title": "Help shape Spenzy — 2 min survey",
+      "maxDismissals": 1,
+      "priority": 10,
+      "action": { "type": "url", "url": "https://example.com/survey", "buttonTitle": "Take survey" }
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+# Cloudflare Pages response headers (rules don't overlap on purpose —
+# matching rules get merged, which would duplicate Cache-Control).
+
+# Announcements: short cache so edits go live within ~1 minute.
+/announcements.json
+  Cache-Control: public, max-age=60
+
+# Release notes + images: change rarely.
+/release-notes/*
+  Cache-Control: public, max-age=300
