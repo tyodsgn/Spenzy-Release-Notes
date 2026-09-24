@@ -1,3 +1,13 @@
 {
-  "announcements": []
+  "announcements": [
+    {
+      "id": "test-2026-09-24",
+      "kind": "warning",
+      "badge": "Test",
+      "title": "Testing remote announcements",
+      "body": "If you can read this, the remote config works. This came from GitHub.",
+      "priority": 10,
+      "action": { "type": "sheet" }
+    }
+  ]
 }
