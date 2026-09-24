@@ -1,7 +1,8 @@
 # Spenzy Config
 
-Remote content for the Spenzy app, served as static files by
-**Cloudflare Pages** at `https://spenzy-config.pages.dev`.
+Remote content for the Spenzy app, served as static files by a
+**Cloudflare Worker (static assets only)** at
+`https://spenzy-config.spenzy.workers.dev`.
 
 | File | Used for | Live after edit |
 |---|---|---|
@@ -9,23 +10,25 @@ Remote content for the Spenzy app, served as static files by
 | `release-notes/index.json` + `<version>.json` | "What's new" bubble & release notes screen | ~5 min |
 | `release-notes/images/<version>/…` | Release-note images | ~5 min |
 
-Edit a file on GitHub (web or phone) → commit to `main` → Pages redeploys
-automatically. If a fetch fails, the app keeps its last cached copy
+Edit a file on GitHub (web or phone) → commit to `main` → Cloudflare redeploys
+automatically (Workers Builds). If a fetch fails, the app keeps its last cached copy
 (announcements) or the release notes bundled in the build.
 
-## Cloudflare Pages setup (one time)
+## Cloudflare setup (one time)
 
-1. Cloudflare dashboard → **Workers & Pages** → **Create** → **Pages** →
-   **Connect to Git** → pick `tyodsgn/Spenzy-Release-Notes`.
-2. Project name: **`spenzy-config`** (the app expects
-   `spenzy-config.pages.dev`; if you pick another name, update
+1. Cloudflare dashboard → **Workers & Pages** → **Create application** →
+   **Import a repository** → pick `tyodsgn/Spenzy-Release-Notes`.
+2. Project name **`spenzy-config`** (must match `name` in `wrangler.jsonc`;
+   the app expects `spenzy-config.spenzy.workers.dev` — if it changes, update
    `ANNOUNCEMENTS_URL`, `RELEASE_NOTES_URL`, `RELEASE_NOTES_IMAGE_BASE_URL`
    in the app's `Spenzy/Info.plist`).
-3. Framework preset: **None**. Build command: *(empty)*. Output directory: **`/`**.
-4. Save and Deploy.
+3. Build command: *(empty)*. Deploy command: `npx wrangler deploy` (default).
+4. Create and deploy. Every push to `main` redeploys.
 
-`_headers` sets cache lifetimes. Pages static requests are free and
-unlimited, and don't count against the AI proxy Worker's quota.
+`wrangler.jsonc` declares an assets-only Worker (no script), `.assetsignore`
+keeps repo files like this README private, `_headers` sets cache lifetimes.
+Static asset requests are free and unlimited and don't count toward the
+Workers daily request quota used by the AI proxy.
 
 ## Announcements
 

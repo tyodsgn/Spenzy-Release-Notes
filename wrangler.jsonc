@@ -1,0 +1,10 @@
+// Static-assets-only Worker: serves announcements + release notes.
+// Asset requests are free/unlimited and don't count toward the Workers
+// daily request quota (kept separate from the spenzy-ai-proxy Worker).
+{
+  "name": "spenzy-config",
+  "compatibility_date": "2026-09-01",
+  "assets": {
+    "directory": "./"
+  }
+}
