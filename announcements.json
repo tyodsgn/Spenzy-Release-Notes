@@ -1,28 +1,3 @@
 {
-  "announcements": [
-    {
-      "id": "test-sections-1",
-      "kind": "warning",
-      "badge": "1.2.4",
-      "title": "Update to 1.2.4",
-      "body": "This update fixes an issue where scanned receipts could save the wrong amount.",
-      "priority": 80,
-      "sections": [
-        {
-          "title": "What's fixed",
-          "items": ["Receipt totals now read correctly", "Faster scanning on older iPhones"]
-        },
-        {
-          "title": "Also new",
-          "description": "Calendar view, reminders, and adding transactions by text.",
-          "images": [
-            "release-notes/images/1.2.3/rn-calendar-view.webp",
-            "release-notes/images/1.2.3/rn-pn.webp",
-            "release-notes/images/1.2.3/rn-add-via-text.webp"
-          ]
-        }
-      ],
-      "action": { "type": "appStore", "buttonTitle": "Update now" }
-    }
-  ]
+  "announcements": []
 }
