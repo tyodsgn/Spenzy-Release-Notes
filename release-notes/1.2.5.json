@@ -5,36 +5,28 @@
   "headline": "What's new in Spenzy",
   "sections": [
     {
-      "title": "Pay in any currency",
-      "description": "Tap the currency symbol on the amount to record a purchase in another currency. Spenzy converts it to your wallet's currency, and you can enter the exact amount your bank charged."
+      "title": "Record in any currency",
+      "description": "Tap the currency symbol to log a purchase in another currency. Spenzy converts it for you, or enter the exact amount your bank charged."
     },
     {
       "title": "Foreign receipts just work",
-      "description": "Scanned and shared receipts in another currency are now converted instead of rejected."
+      "description": "Receipts in other currencies are now converted automatically."
     },
     {
       "title": "Manage friends and categories",
       "items": [
-        "Edit or remove saved Split Bill friends, several at once.",
-        "Expense, Income and Transfer categories now share one list.",
-        "CSV import can create missing categories for you."
+        "Edit or remove Split Bill friends, several at once.",
+        "All categories now in one list.",
+        "CSV import creates missing categories for you."
       ]
     },
     {
-      "title": "Better Shortcuts and Siri",
+      "title": "Fixes & Improvements",
       "items": [
-        "Siri understands \"Spenzy\" more reliably.",
-        "\"Add Transactions via Text\" now saves a note, like \"Coffee at Starbucks\".",
-        "Every Spenzy action in the Shortcuts app has a clear description."
-      ]
-    },
-    {
-      "title": "Fixes",
-      "items": [
-        "Scanning receipts and adding by text are working again. Sorry for the interruption, and thanks for your patience!",
-        "More accurate totals for wallets in other currencies.",
-        "Changing your main currency now updates everything right away.",
-        "Wallet expense reports (PDF) now always include all your transactions and the correct total."
+        "Receipt scanning and adding by text are working again. Sorry for the interruption, and thanks for your patience!",
+        "More accurate totals for foreign-currency wallets, and changing your main currency updates everything right away.",
+        "Wallet PDF reports now include every transaction and the correct total.",
+        "Siri understands \"Spenzy\" better, and text shortcuts now save a note."
       ]
     }
   ]
