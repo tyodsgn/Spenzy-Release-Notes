@@ -16,7 +16,16 @@
       "title": "Manage friends and categories",
       "items": [
         "Edit or remove saved Split Bill friends, several at once.",
-        "Expense, Income and Transfer categories now share one list."
+        "Expense, Income and Transfer categories now share one list.",
+        "CSV import can create missing categories for you."
+      ]
+    },
+    {
+      "title": "Better Shortcuts and Siri",
+      "items": [
+        "Siri understands \"Spenzy\" more reliably.",
+        "\"Add Transactions via Text\" now saves a note, like \"Coffee at Starbucks\".",
+        "Every Spenzy action in the Shortcuts app has a clear description."
       ]
     },
     {
