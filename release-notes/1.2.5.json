@@ -24,7 +24,8 @@
       "items": [
         "Scanning receipts and adding by text are working again. Sorry for the interruption, and thanks for your patience!",
         "More accurate totals for wallets in other currencies.",
-        "Changing your main currency now updates everything right away."
+        "Changing your main currency now updates everything right away.",
+        "Wallet expense reports (PDF) now always include all your transactions and the correct total."
       ]
     }
   ]
