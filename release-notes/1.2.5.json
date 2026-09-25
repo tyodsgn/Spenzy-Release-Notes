@@ -1,0 +1,31 @@
+{
+  "version": "1.2.5",
+  "date": "2026-09-25",
+  "color": "sysOrange",
+  "headline": "What's new in Spenzy",
+  "sections": [
+    {
+      "title": "Pay in any currency",
+      "description": "Tap the currency symbol on the amount to record a purchase in another currency. Spenzy converts it to your wallet's currency, and you can enter the exact amount your bank charged."
+    },
+    {
+      "title": "Foreign receipts just work",
+      "description": "Scanned and shared receipts in another currency are now converted instead of rejected."
+    },
+    {
+      "title": "Manage friends and categories",
+      "items": [
+        "Edit or remove saved Split Bill friends, several at once.",
+        "Expense, Income and Transfer categories now share one list."
+      ]
+    },
+    {
+      "title": "Fixes",
+      "items": [
+        "Scanning receipts and adding by text are working again. Sorry for the interruption, and thanks for your patience!",
+        "More accurate totals for wallets in other currencies.",
+        "Changing your main currency now updates everything right away."
+      ]
+    }
+  ]
+}
