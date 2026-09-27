@@ -8,3 +8,7 @@
 # Release notes + images: change rarely.
 /release-notes/*
   Cache-Control: public, max-age=300
+
+# Currency list: short cache so a new currency shows up within ~5 minutes.
+/currencies.json
+  Cache-Control: public, max-age=300

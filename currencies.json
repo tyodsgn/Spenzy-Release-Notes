@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "currencies": [
+    { "code": "KGS", "name": "Kyrgyzstani Som", "fallbackRate": 99.6365 },
+    { "code": "MVR", "name": "Maldivian Rufiyaa", "fallbackRate": 17.6113 },
+    { "code": "XOF", "name": "West African CFA Franc", "fallbackRate": 655.957, "flag": "🌍" },
+    { "code": "XAF", "name": "Central African CFA Franc", "fallbackRate": 655.957, "flag": "🌍" }
+  ]
+}
