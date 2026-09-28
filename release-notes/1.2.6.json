@@ -24,7 +24,8 @@
       "title": "Now in Bahasa Indonesia and Spanish",
       "description": "Spenzy now speaks Bahasa Indonesia and Spanish, including widgets, notifications and Siri. It follows your iPhone's language.",
       "images": [
-        "images/1.2.6/rn-bahasa.webp"
+        "images/1.2.6/rn-bahasa.webp",
+        "images/1.2.6/rn-spanish.webp"
       ]
     },
     {
@@ -65,7 +66,8 @@
           "title": "Kini dalam Bahasa Indonesia dan Spanyol",
           "description": "Spenzy kini tersedia dalam Bahasa Indonesia dan Spanyol, termasuk widget, notifikasi, dan Siri. Bahasanya mengikuti bahasa iPhone-mu.",
           "images": [
-            "images/1.2.6/id/rn-credit-card-detail.webp"
+            "images/1.2.6/rn-bahasa.webp",
+            "images/1.2.6/rn-spanish.webp"
           ]
         },
         {
@@ -106,7 +108,8 @@
           "title": "Ahora en indonesio y español",
           "description": "Spenzy ya está disponible en indonesio y español, incluidos los widgets, las notificaciones y Siri. Usa el idioma de tu iPhone.",
           "images": [
-            "images/1.2.6/es/rn-credit-card-detail.webp"
+            "images/1.2.6/rn-bahasa.webp",
+            "images/1.2.6/rn-spanish.webp"
           ]
         },
         {
