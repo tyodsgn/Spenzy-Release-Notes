@@ -1,0 +1,128 @@
+{
+  "version": "1.2.6",
+  "date": "2026-09-28",
+  "color": "sysPurple",
+  "headline": "What's new in Spenzy",
+  "sections": [
+    {
+      "title": "Credit cards are here",
+      "description": "Add your credit card as a wallet and see your available limit, how much you've used, and this month's bill with its due date. Tap Pay bill to record a payment from another wallet.",
+      "images": [
+        "images/1.2.6/rn-credit-card-wallet.webp",
+        "images/1.2.6/rn-credit-card-detail.webp",
+        "images/1.2.6/rn-credit-card-pay-sheet.webp"
+      ]
+    },
+    {
+      "title": "Never miss a due date",
+      "description": "Turn on reminders for a card and Spenzy will remind you a few days before the bill is due, and again on the day.",
+      "images": [
+        "images/1.2.6/rn-due-reminder.webp"
+      ]
+    },
+    {
+      "title": "Now in Bahasa Indonesia and Spanish",
+      "description": "Spenzy now speaks Bahasa Indonesia and Spanish, including widgets, notifications and Siri. It follows your iPhone's language.",
+      "images": [
+        "images/1.2.6/rn-bahasa.webp"
+      ]
+    },
+    {
+      "title": "Fixes & Improvements",
+      "items": [
+        "Added Kyrgyzstani Som, Maldivian Rufiyaa and CFA franc.",
+        "Turn off Recent Notes in Settings to hide the quick-pick notes when adding a transaction.",
+        "Split Bill history now shows each bill's total in its own currency.",
+        "Fixed a rare crash when Spenzy or its widgets started in the background."
+      ],
+      "images": [
+        "images/1.2.6/rn-recent-notes.webp",
+        "images/1.2.6/rn-recent-notes-setting.webp"
+      ]
+    }
+  ],
+  "localizations": {
+    "id": {
+      "headline": "Yang baru di Spenzy",
+      "sections": [
+        {
+          "title": "Kartu kredit kini hadir",
+          "description": "Tambahkan kartu kreditmu sebagai dompet dan lihat sisa limit, limit terpakai, serta tagihan bulan ini beserta tanggal jatuh temponya. Ketuk Bayar tagihan untuk mencatat pembayarannya dari dompet lain.",
+          "images": [
+            "images/1.2.6/id/rn-credit-card-wallet.webp",
+            "images/1.2.6/id/rn-credit-card-detail.webp",
+            "images/1.2.6/id/rn-credit-card-pay-sheet.webp"
+          ]
+        },
+        {
+          "title": "Jangan sampai telat bayar",
+          "description": "Nyalakan pengingat di kartumu, dan Spenzy akan mengingatkan beberapa hari sebelum tagihan jatuh tempo, lalu sekali lagi di harinya.",
+          "images": [
+            "images/1.2.6/id/rn-due-reminder.webp"
+          ]
+        },
+        {
+          "title": "Kini dalam Bahasa Indonesia dan Spanyol",
+          "description": "Spenzy kini tersedia dalam Bahasa Indonesia dan Spanyol, termasuk widget, notifikasi, dan Siri. Bahasanya mengikuti bahasa iPhone-mu.",
+          "images": [
+            "images/1.2.6/id/rn-credit-card-detail.webp"
+          ]
+        },
+        {
+          "title": "Perbaikan & Peningkatan",
+          "items": [
+            "Mata uang baru: Som Kirgizstan, Rufiyaa Maladewa, dan Franc CFA.",
+            "Matikan Catatan Terakhir di Pengaturan untuk menyembunyikan pilihan catatan cepat saat menambah transaksi.",
+            "Riwayat Split Bill kini menampilkan total tiap tagihan dalam mata uangnya sendiri.",
+            "Memperbaiki crash langka saat Spenzy atau widget-nya berjalan di latar belakang."
+          ],
+          "images": [
+            "images/1.2.6/id/rn-recent-notes.webp",
+            "images/1.2.6/id/rn-recent-notes-setting.webp"
+          ]
+        }
+      ]
+    },
+    "es": {
+      "headline": "Novedades de Spenzy",
+      "sections": [
+        {
+          "title": "Llegan las tarjetas de crédito",
+          "description": "Agrega tu tarjeta de crédito como billetera y ve tu límite disponible, cuánto has usado y la factura del mes con su fecha de vencimiento. Toca Pagar factura para registrar el pago desde otra billetera.",
+          "images": [
+            "images/1.2.6/es/rn-credit-card-wallet.webp",
+            "images/1.2.6/es/rn-credit-card-detail.webp",
+            "images/1.2.6/es/rn-credit-card-pay-sheet.webp"
+          ]
+        },
+        {
+          "title": "Que no se te pase el vencimiento",
+          "description": "Activa los recordatorios de una tarjeta y Spenzy te avisará unos días antes de que venza la factura, y otra vez ese mismo día.",
+          "images": [
+            "images/1.2.6/es/rn-due-reminder.webp"
+          ]
+        },
+        {
+          "title": "Ahora en indonesio y español",
+          "description": "Spenzy ya está disponible en indonesio y español, incluidos los widgets, las notificaciones y Siri. Usa el idioma de tu iPhone.",
+          "images": [
+            "images/1.2.6/es/rn-credit-card-detail.webp"
+          ]
+        },
+        {
+          "title": "Correcciones y mejoras",
+          "items": [
+            "Nuevas monedas: som kirguís, rufiyaa maldiva y franco CFA.",
+            "Desactiva Notas recientes en Ajustes para ocultar las notas rápidas al agregar una transacción.",
+            "El historial de Dividir cuenta ahora muestra el total de cada cuenta en su propia moneda.",
+            "Se corrigió un cierre inesperado poco frecuente cuando Spenzy o sus widgets se iniciaban en segundo plano."
+          ],
+          "images": [
+            "images/1.2.6/es/rn-recent-notes.webp",
+            "images/1.2.6/es/rn-recent-notes-setting.webp"
+          ]
+        }
+      ]
+    }
+  }
+}
