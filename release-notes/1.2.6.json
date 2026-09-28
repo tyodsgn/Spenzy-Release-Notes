@@ -3,6 +3,8 @@
   "date": "2026-09-28",
   "color": "sysPurple",
   "headline": "What's new in Spenzy",
+  "footerTitle": "Hey, Tyo here!",
+  "footerMessage": "If Spenzy helps you, a quick rating on the App Store would mean a lot. It keeps me going and helps me keep improving Spenzy.\n\nThanks for using it, and see you in the next one!",
   "sections": [
     {
       "title": "Credit cards are here",
@@ -45,6 +47,8 @@
   "localizations": {
     "id": {
       "headline": "Yang baru di Spenzy",
+      "footerTitle": "Hai, Tyo di sini!",
+      "footerMessage": "Kalau Spenzy ngebantu kamu, kasih rating sebentar di App Store ya. Itu bikin aku semangat buat terus ngembangin Spenzy.\n\nMakasih udah pakai, sampai jumpa di update berikutnya!",
       "sections": [
         {
           "title": "Kartu kredit kini hadir",
@@ -87,6 +91,8 @@
     },
     "es": {
       "headline": "Novedades de Spenzy",
+      "footerTitle": "¡Hola, soy Tyo!",
+      "footerMessage": "Si Spenzy te ayuda, una calificación rápida en el App Store significaría mucho. Me motiva a seguir mejorando Spenzy.\n\n¡Gracias por usarlo y nos vemos en la próxima!",
       "sections": [
         {
           "title": "Llegan las tarjetas de crédito",
