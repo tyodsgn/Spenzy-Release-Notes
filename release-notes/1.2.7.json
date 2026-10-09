@@ -1,0 +1,158 @@
+{
+  "version": "1.2.7",
+  "date": "2026-10-09",
+  "color": "sysBlue",
+  "headline": "What's new in Spenzy",
+  "footerTitle": "Hey, Tyo here!",
+  "footerMessage": "If Spenzy helps you, a quick rating on the App Store would mean a lot. It keeps me going and helps me keep improving Spenzy.\n\nThanks for using it, and see you in the next one!",
+  "sections": [
+    {
+      "title": "Group your categories",
+      "description": "Put your categories into groups like Must, Need and Want. Pick categories by group, set one budget for a whole group, and see Insights add up by group.",
+      "images": [
+        "images/1.2.7/rn-category-groups.webp",
+        "images/1.2.7/rn-group-budget.webp",
+        "images/1.2.7/rn-group-insights.webp"
+      ]
+    },
+    {
+      "title": "Easier CSV import",
+      "description": "Spenzy now matches columns, categories and wallets for you, skips transactions you already have, and lets you pick which ones to bring in. You can also open a CSV straight from Files.",
+      "images": [
+        "images/1.2.7/rn-csv-import.webp"
+      ]
+    },
+    {
+      "title": "A fresh look on iOS 26",
+      "description": "A new Liquid Glass tab bar and buttons, and messages that pop out of the Dynamic Island.",
+      "images": [
+        "images/1.2.7/rn-liquid-glass.webp"
+      ]
+    },
+    {
+      "title": "Peek at a transaction",
+      "description": "Tap a transaction to see its details at a glance, then tap Edit to change it.",
+      "images": [
+        "images/1.2.7/rn-quick-view.webp"
+      ]
+    },
+    {
+      "title": "Fixes & Improvements",
+      "items": [
+        "Fixed a transaction sometimes being saved two or three times. Sorry about that!",
+        "When you're looking at a past month, new transactions now start in that month.",
+        "Delete Data lets you choose exactly what to clear, split bills included.",
+        "Split bills list every fee on its own, and shares add up to the receipt total.",
+        "Notes from scanning and typing are written in your app's language.",
+        "When Spenzy can't tell a transaction's category, it goes to Uncategorized so you can pick one."
+      ],
+      "images": [
+        "images/1.2.7/rn-delete-data.webp"
+      ]
+    }
+  ],
+  "localizations": {
+    "id": {
+      "headline": "Yang baru di Spenzy",
+      "footerTitle": "Hai, Tyo di sini!",
+      "footerMessage": "Kalau Spenzy ngebantu kamu, kasih rating sebentar di App Store ya. Itu bikin aku semangat buat terus ngembangin Spenzy.\n\nMakasih udah pakai, sampai jumpa di update berikutnya!",
+      "sections": [
+        {
+          "title": "Kelompokkan kategorimu",
+          "description": "Masukkan kategorimu ke grup seperti Wajib, Kebutuhan, dan Keinginan. Pilih kategori per grup, bikin satu anggaran buat satu grup, dan lihat Analisis dijumlahkan per grup.",
+          "images": [
+            "images/1.2.7/id/rn-category-groups.webp",
+            "images/1.2.7/id/rn-group-budget.webp",
+            "images/1.2.7/id/rn-group-insights.webp"
+          ]
+        },
+        {
+          "title": "Impor CSV jadi lebih gampang",
+          "description": "Spenzy sekarang otomatis mencocokkan kolom, kategori, dan dompet, melewati transaksi yang udah ada, dan kamu bisa pilih mana yang mau diimpor. File CSV juga bisa langsung dibuka dari Files.",
+          "images": [
+            "images/1.2.7/id/rn-csv-import.webp"
+          ]
+        },
+        {
+          "title": "Tampilan baru di iOS 26",
+          "description": "Tab bar dan tombol Liquid Glass yang baru, plus pesan yang muncul dari Dynamic Island.",
+          "images": [
+            "images/1.2.7/id/rn-liquid-glass.webp"
+          ]
+        },
+        {
+          "title": "Intip detail transaksi",
+          "description": "Ketuk transaksi buat lihat detailnya sekilas, lalu ketuk Ubah kalau mau mengubahnya.",
+          "images": [
+            "images/1.2.7/id/rn-quick-view.webp"
+          ]
+        },
+        {
+          "title": "Perbaikan & Peningkatan",
+          "items": [
+            "Transaksi nggak lagi kadang kesimpan dua atau tiga kali. Maaf ya!",
+            "Pas lagi lihat bulan sebelumnya, transaksi baru sekarang langsung mulai di bulan itu.",
+            "Hapus Data sekarang bisa pilih apa aja yang mau dihapus, termasuk split bill.",
+            "Split bill sekarang menampilkan tiap biaya terpisah, dan bagiannya pas dengan total struk.",
+            "Catatan dari scan struk dan ketik sekarang ditulis dalam bahasa aplikasimu.",
+            "Kalau Spenzy nggak bisa nebak kategori transaksinya, transaksi masuk ke Tanpa kategori biar kamu bisa pilih sendiri."
+          ],
+          "images": [
+            "images/1.2.7/id/rn-delete-data.webp"
+          ]
+        }
+      ]
+    },
+    "es": {
+      "headline": "Novedades de Spenzy",
+      "footerTitle": "¡Hola, soy Tyo!",
+      "footerMessage": "Si Spenzy te ayuda, una calificación rápida en el App Store significaría mucho. Me motiva a seguir mejorando Spenzy.\n\n¡Gracias por usarlo y nos vemos en la próxima!",
+      "sections": [
+        {
+          "title": "Agrupa tus categorías",
+          "description": "Organiza tus categorías en grupos como Esencial, Necesidad y Deseo. Elige categorías por grupo, crea un presupuesto para todo un grupo y ve los Análisis sumados por grupo.",
+          "images": [
+            "images/1.2.7/es/rn-category-groups.webp",
+            "images/1.2.7/es/rn-group-budget.webp",
+            "images/1.2.7/es/rn-group-insights.webp"
+          ]
+        },
+        {
+          "title": "Importar CSV es más fácil",
+          "description": "Spenzy ahora vincula columnas, categorías y billeteras por ti, omite las transacciones que ya tienes y te deja elegir cuáles traer. También puedes abrir un CSV directamente desde Archivos.",
+          "images": [
+            "images/1.2.7/es/rn-csv-import.webp"
+          ]
+        },
+        {
+          "title": "Un nuevo look en iOS 26",
+          "description": "Una nueva barra de pestañas y botones de Liquid Glass, y mensajes que salen de la Dynamic Island.",
+          "images": [
+            "images/1.2.7/es/rn-liquid-glass.webp"
+          ]
+        },
+        {
+          "title": "Echa un vistazo a una transacción",
+          "description": "Toca una transacción para ver sus detalles de un vistazo y luego toca Editar para cambiarla.",
+          "images": [
+            "images/1.2.7/es/rn-quick-view.webp"
+          ]
+        },
+        {
+          "title": "Correcciones y mejoras",
+          "items": [
+            "Se corrigió que una transacción a veces se guardara dos o tres veces. ¡Perdón por las molestias!",
+            "Si estás viendo un mes anterior, las nuevas transacciones ahora empiezan en ese mes.",
+            "Eliminar datos te deja elegir exactamente qué borrar, incluido Dividir cuenta.",
+            "Dividir cuenta muestra cada cargo por separado y las partes suman el total del recibo.",
+            "Las notas al escanear y al escribir aparecen en el idioma de la app.",
+            "Cuando Spenzy no sabe la categoría de una transacción, la pone en Sin categoría para que la elijas."
+          ],
+          "images": [
+            "images/1.2.7/es/rn-delete-data.webp"
+          ]
+        }
+      ]
+    }
+  }
+}
