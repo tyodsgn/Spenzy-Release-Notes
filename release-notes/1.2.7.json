@@ -23,8 +23,8 @@
       ]
     },
     {
-      "title": "A fresh look on iOS 26",
-      "description": "A new Liquid Glass tab bar and buttons, and messages that pop out of the Dynamic Island.",
+      "title": "A fresh look on iOS 27",
+      "description": "A new Liquid Glass tab bar and buttons.",
       "images": [
         "images/1.2.7/rn-liquid-glass.webp"
       ]
@@ -74,8 +74,8 @@
           ]
         },
         {
-          "title": "Tampilan baru di iOS 26",
-          "description": "Tab bar dan tombol Liquid Glass yang baru, plus pesan yang muncul dari Dynamic Island.",
+          "title": "Tampilan baru di iOS 27",
+          "description": "Tab bar dan tombol Liquid Glass yang baru.",
           "images": [
             "images/1.2.7/id/rn-liquid-glass.webp"
           ]
@@ -125,8 +125,8 @@
           ]
         },
         {
-          "title": "Un nuevo look en iOS 26",
-          "description": "Una nueva barra de pestañas y botones de Liquid Glass, y mensajes que salen de la Dynamic Island.",
+          "title": "Un nuevo look en iOS 27",
+          "description": "Una nueva barra de pestañas y botones de Liquid Glass.",
           "images": [
             "images/1.2.7/es/rn-liquid-glass.webp"
           ]
