@@ -1,0 +1,71 @@
+{
+  "version": "1.2.8",
+  "date": "2026-11-11",
+  "color": "sysBlue",
+  "headline": "What's new in Spenzy",
+  "footerTitle": "Hey, Tyo here!",
+  "footerMessage": "If Spenzy helps you, a quick rating on the App Store would mean a lot. It keeps me going and helps me keep improving Spenzy.\n\nA little spoiler: something big is coming in the next update. Keeping track of money is about to feel a lot less lonely.\n\nThanks for using Spenzy, see you in the next one!",
+  "sections": [
+    {
+      "title": "Scanning and AI on more networks",
+      "description": "Some people had receipt scanning, adding by text and Siri stop working on certain networks. This update should fix that."
+    },
+    {
+      "title": "Turn off Liquid Glass",
+      "description": "Liquid Glass is on by default on iOS 26 and later. Prefer a solid look? Turn it off in Settings, under App Icon. Spenzy then uses the classic bottom bar, buttons and sheets. System bars and menus keep iOS's own look.",
+      "images": [
+        "images/1.2.8/rn-liquid-glass-setting.webp"
+      ]
+    },
+    {
+      "title": "Faster tab switching",
+      "description": "Switching between tabs is quicker when you have a lot of transactions."
+    }
+  ],
+  "localizations": {
+    "id": {
+      "headline": "Yang baru di Spenzy",
+      "footerTitle": "Hai, Tyo di sini!",
+      "footerMessage": "Kalau Spenzy ngebantu kamu, kasih rating sebentar di App Store ya. Itu bikin aku semangat buat terus ngembangin Spenzy.\n\nSedikit bocoran: ada yang besar di update berikutnya. Ngatur duit bentar lagi nggak harus sendirian.\n\nMakasih udah pakai Spenzy, sampai jumpa di update berikutnya!",
+      "sections": [
+        {
+          "title": "Scan dan AI jalan di lebih banyak jaringan",
+          "description": "Ada yang kadang gagal scan struk, tambah lewat teks, atau tambah lewat Siri di jaringan tertentu. Update ini harusnya memperbaikinya."
+        },
+        {
+          "title": "Matikan Liquid Glass",
+          "description": "Di iOS 26 ke atas, Liquid Glass aktif secara default. Lebih suka tampilan solid? Matikan di Pengaturan, di bawah Ikon Aplikasi. Spenzy lalu pakai bar bawah, tombol, dan sheet klasik. Bar dan menu sistem tetap ikut tampilan iOS.",
+          "images": [
+            "images/1.2.8/id/rn-liquid-glass-setting.webp"
+          ]
+        },
+        {
+          "title": "Pindah tab lebih cepat",
+          "description": "Pindah antar tab jadi lebih cepat saat transaksimu banyak."
+        }
+      ]
+    },
+    "es": {
+      "headline": "Novedades de Spenzy",
+      "footerTitle": "¡Hola, soy Tyo!",
+      "footerMessage": "Si Spenzy te ayuda, una calificación rápida en el App Store significaría mucho. Me motiva a seguir mejorando Spenzy.\n\nUn pequeño adelanto: algo grande llega en la próxima actualización. Llevar tus cuentas está por dejar de ser algo que haces a solas.\n\n¡Gracias por usar Spenzy y nos vemos en la próxima!",
+      "sections": [
+        {
+          "title": "Escaneo y IA en más redes",
+          "description": "Algunas personas dejaban de poder escanear recibos, añadir por texto o añadir con Siri en ciertas redes. Esta actualización debería solucionarlo."
+        },
+        {
+          "title": "Desactiva Liquid Glass",
+          "description": "En iOS 26 o posterior, Liquid Glass viene activado. ¿Prefieres un aspecto sólido? Desactívalo en Ajustes, debajo de Ícono de la app. Spenzy usará entonces la barra inferior, los botones y las hojas clásicos. Las barras y menús del sistema mantienen el estilo de iOS.",
+          "images": [
+            "images/1.2.8/es/rn-liquid-glass-setting.webp"
+          ]
+        },
+        {
+          "title": "Cambio de pestañas más rápido",
+          "description": "Cambiar entre pestañas es más rápido cuando tienes muchas transacciones."
+        }
+      ]
+    }
+  }
+}
